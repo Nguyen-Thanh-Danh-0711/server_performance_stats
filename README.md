@@ -10,16 +10,16 @@
 
 * Installation and usage
 
-- Step 1: Clone the project to your machine
+- Step 1: Clone the project to your machine: 
 git clone https://github.com/Nguyen-Thanh-Danh-0711/server_performance_stats.git
 
-- Step 2: Navigate to the project directory
+- Step 2: Navigate to the project directory: 
 cd server_performance_stats/
 
-- Step 3: Grant execute permission to the script
+- Step 3: Grant execute permission to the script: 
 chmod +x server-stats.sh
 
-- Step 4: Run the program
+- Step 4: Run the program: 
 ./server-stats.sh
 
 * Sample output
